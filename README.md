@@ -7,14 +7,14 @@ I have worked on multiple projects, both on a personal consulting scale  for sma
 
 ### Some of these projects I have been involved in both professionally and personally includes;
 
-**BI system migration from Legacy systems to Power BI Service;
+**BI system migration from Legacy systems to Power BI Service**;
  - Requirement Gathering and Elicitation, Creating Proof of concepts, Mock-ups, and Report Prototypes
  - Power BI Reports, Dashboards, Apps, and Workspace design
  - User Interface and Experience (UX/UI) design
  - Technical documentation, Version Controls, and CI/CD 
  - Self-Service Business Intelligence Implementation Model
  
-**Database management and optimization:
+**Database management and optimization**;
  - Performance management
  - Query tuning
  - Data purging
@@ -22,7 +22,7 @@ I have worked on multiple projects, both on a personal consulting scale  for sma
  - Analysis services Server management and performance optimization
  - SSIS Server management and performance tuning, technical error troubleshooting
   
-**Design and development of Data warehouses and Data repositories for Business Intelligence systems;
+**Design and development of Data warehouses and Data repositories for Business Intelligence systems**;
  - BUild ETL Pipelines to extract, transform and load data from different sources (OLTP databases, flat files, and web sources) to Data warehouses;
  - Data warehouse Design (conceptual, logical and physical Database designs)
  - Build ETL packages including parameters, environments, and event handlers to move data from source systems, 
@@ -61,11 +61,11 @@ I have worked on multiple projects, both on a personal consulting scale  for sma
 
 ### Finally,  
 
-- 🔭 I’m currently working on *Data Modellig Projects, Data visualization projects and building End-to-End Projects using MSBI Stack and Azure Data Tools 
-- 🌱 I’m currently learning and improving my skills in *Power Platform and Cloud data tools technlogy
-- 👯 I’m looking to collaborate on *Power BI development Projects and projects using Azure Data tools
-- 🤔 I’m looking for help with *Getting a full-time role in Business Intelligence, Data Analytics or Power Platfrom Development
-- 💬 Ask me about *How Microsoft Power Platform can help you integrate data sources together and build a functional App for your business
-- 📫 How to reach me: *Email - Lanray.Waju@outlook.com
-- ⚡ Fun fact: *I am a full on OTAKU, and my favourite Anime at the moment is One Piece
+- 🔭 I’m currently working on Data Modellig Projects, Data visualization projects and building End-to-End Projects using MSBI Stack and Azure Data Tools 
+- 🌱 I’m currently learning and improving my skills using the Power Platform and Cloud data tools technlogy to provide Integrated business intelligence solutions
+- 👯 I’m looking to collaborate on Power BI development Projects and projects using Azure Data tools
+- 🤔 I’m looking for help with Getting a full-time role in Business Intelligence, Data Analytics or Power Platfrom Development
+- 💬 Ask me about How Microsoft Power Platform can help you integrate data sources together and build a functional App for your business
+- 📫 How to reach me: Email - Lanray.Waju@outlook.com
+- ⚡ Fun fact: I am a full on OTAKU, and my favourite Anime at the moment is One Piece
 
