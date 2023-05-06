@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Mayowa
 
-I have always loved Data.  I started out my career as an ERP Database Analyst, learning Data migration from an ERP system to Microsoft Access and my first introduction to Microsoft Data tools, Microsoft Access and Excel where I learnt SQL and VBA programming. Then after a brief stint as a Business Intelligence analyst in 2018, where I discovered Pivot Tables, Power Query in Microsoft Excel, MSBI Stack (SSIS, SSAS, SSRS) and Power BI, I decided to become a Business Intelligence Developer in 2019.
+I have always loved Data.  I started out my career as an ERP Database Analyst, learning Data migration from an ERP system to Microsoft Access and my first introduction to Microsoft Data tools, Microsoft Access and Excel where I learnt SQL and VBA programming. Then after a brief stint as a Project controls analyst in 2018, where I discovered Pivot Tables, Power Query in Microsoft Excel, I have been a data analyst in the financial (taxation) sector, working with a Federal government organization responsible for taxation and federal tax returns 
 
-### As a business Intelligence Developer,
-I have worked on multiple projects, both on a personal consulting scale  for small businesses and micro business owners and also on a professional scale in multiple capacity, with my current role being the Lead Business Intelligence Developer with a Human resource and Global talent Hiring rganization . 
+### At the moment,
+I am looking to pivot to business intelligence as a business intelligence developer and thsi repository seeks to show my skills and learning path as I journey along the way to a full-fledge career in business intelligence . 
 
-### Some of these projects I have been involved in both professionally and personally includes;
+### Some of these projects I am looking to get involved in both professionally and personally includes;
 
 **BI system migration from Legacy systems to Power BI Service**;
  - Requirement Gathering and Elicitation, Creating Proof of concepts, Mock-ups, and Report Prototypes
@@ -48,7 +48,7 @@ I have worked on multiple projects, both on a personal consulting scale  for sma
  - Enforcing security and data governance protocols on Data assets and reports
  - Privacy Settings, Workspace security, ETL packages Roles/Security, Tabular Object Model security
  
-### Languages and Tools;
+### Languages and Tools i am quite proficient with;
  
 [![SQLServer](https://user-images.githubusercontent.com/105971126/235249448-05212c89-1230-4615-a0c3-2442b9b62e10.png)](https://www.microsoft.com/en-ca/sql-server/sql-server-downloads)
 [![PowerBI](https://user-images.githubusercontent.com/105971126/235250608-caed869d-f7eb-40ec-a844-7c9a7fe27b30.png)](https://powerbi.microsoft.com/en-us/downloads/)
