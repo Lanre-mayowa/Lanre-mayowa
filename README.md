@@ -3,7 +3,7 @@
 I have always loved Data.  I started out my career as an ERP Database Analyst, learning Data migration from an ERP system to Microsoft Access and my first introduction to Microsoft Data tools, Microsoft Access and Excel where I learnt SQL and VBA programming. Then after a brief stint as a Project controls analyst in 2018, where I discovered Pivot Tables, Power Query in Microsoft Excel, I have been a data analyst in the financial (taxation) sector, working with a Federal government organization responsible for taxation and federal tax returns 
 
 ### At the moment,
-I am looking to pivot to business intelligence as a business intelligence developer and thsi repository seeks to show my skills and learning path as I journey along the way to a full-fledge career in business intelligence . 
+I am looking to pivot to business intelligence as a business intelligence developer and this repository seeks to show prospective employers my skills and abilties as I journey along the way to a full-fledge career in business intelligence . 
 
 ### Some of these projects I am looking to get involved in both professionally and personally includes;
 
@@ -23,12 +23,12 @@ I am looking to pivot to business intelligence as a business intelligence develo
  - SSIS Server management and performance tuning, technical error troubleshooting
   
 **Design and development of Data warehouses and Data repositories for Business Intelligence systems**;
- - BUild ETL Pipelines to extract, transform and load data from different sources (OLTP databases, flat files, and web sources) to Data warehouses;
+ - Build ETL Pipelines to extract, transform and load data from different sources (OLTP databases, flat files, and web sources) to Data warehouses;
  - Data warehouse Design (conceptual, logical and physical Database designs)
  - Build ETL packages including parameters, environments, and event handlers to move data from source systems, 
     perform transformation logic on data in readiness for data warehouse information design
  - Deploy SSIS packages on SQL server, implementing governance, and security measure on ETL packages
- - Cloud Migration projectsfrom on-prem sources to Azure 
+ - Migration projects from on-prem sources to Azure 
  
  **Design, development, and deployment of Analysis Services cubes**;
  - Build security layer over data Warehouses for analytics, providing multiple perspectives and access based on roles;
@@ -48,7 +48,7 @@ I am looking to pivot to business intelligence as a business intelligence develo
  - Enforcing security and data governance protocols on Data assets and reports
  - Privacy Settings, Workspace security, ETL packages Roles/Security, Tabular Object Model security
  
-### Languages and Tools i am quite proficient with;
+### Languages and Tools I am building proficiency with includes;
  
 [![SQLServer](https://user-images.githubusercontent.com/105971126/235249448-05212c89-1230-4615-a0c3-2442b9b62e10.png)](https://www.microsoft.com/en-ca/sql-server/sql-server-downloads)
 [![PowerBI](https://user-images.githubusercontent.com/105971126/235250608-caed869d-f7eb-40ec-a844-7c9a7fe27b30.png)](https://powerbi.microsoft.com/en-us/downloads/)
